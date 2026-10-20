@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flutter Jobs · Essam</title>
+  <meta name="description" content="وظايف Flutter جديدة كل يوم شغل — بتتحدّث أوتوماتيك.">
+  <meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%2302569B'/><path d='M18 6 8 16l3 3L24 6zM18 15l-6 6 6 6h6l-6-6 6-6z' fill='%2354C5F8'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top__inner">
+      <div class="brand">
+        <span class="brand__mark" aria-hidden="true"></span>
+        <div>
+          <h1>وظايف Flutter</h1>
+          <p class="muted">بحث يومي من الأحد للخميس — بيتحدّث لوحده</p>
+        </div>
+      </div>
+      <div class="updated" id="updated" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="stats" id="stats" aria-label="ملخص"></section>
+
+    <section class="toolbar" aria-label="فلاتر">
+      <label class="search">
+        <span class="sr-only">بحث</span>
+        <input id="q" type="search" placeholder="دوّر بالشركة، العنوان، المكان…" autocomplete="off" dir="auto">
+      </label>
+      <div class="chips" role="group" aria-label="نوع الشغل" id="modeChips">
+        <button class="chip is-on" data-mode="all">الكل</button>
+        <button class="chip" data-mode="remote">Remote</button>
+        <button class="chip" data-mode="hybrid">Hybrid</button>
+        <button class="chip" data-mode="onsite">Onsite</button>
+      </div>
+      <div class="chips" role="group" aria-label="الحالة" id="statusChips">
+        <button class="chip is-on" data-status="active">المتاح</button>
+        <button class="chip" data-status="applied">قدّمت فيها</button>
+        <button class="chip" data-status="hidden">المخفية</button>
+      </div>
+    </section>
+
+    <section id="latest" aria-labelledby="latestTitle"></section>
+    <section id="archive" aria-labelledby="archiveTitle"></section>
+
+    <div class="empty" id="empty" hidden></div>
+  </main>
+
+  <footer class="wrap foot muted">
+    <span>البيانات من <code>data/jobs.json</code> — بيتحدّث تلقائيًا كل يوم شغل.</span>
+    <a href="https://muhammadessam.me" rel="noopener">muhammadessam.me</a>
+  </footer>
+
+  <template id="jobTpl">
+    <article class="job">
+      <div class="job__main">
+        <div class="job__head">
+          <h3 class="job__title" dir="ltr"></h3>
+          <span class="badge badge--top" hidden>⭐ Top match</span>
+        </div>
+        <p class="job__company" dir="ltr"></p>
+        <ul class="job__meta"></ul>
+        <p class="job__why"></p>
+      </div>
+      <div class="job__actions">
+        <a class="btn btn--primary job__apply" target="_blank" rel="noopener">قدّم ↗</a>
+        <button class="btn job__mark" type="button">قدّمت ✓</button>
+        <button class="btn btn--ghost job__hide" type="button">إخفاء</button>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
