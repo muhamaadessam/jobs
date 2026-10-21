@@ -1,4 +1,50 @@
 {
-  "updated_at": null,
-  "runs": []
+  "updated_at": "2026-10-21T06:57:34+00:00",
+  "runs": [
+    {
+      "date": "2026-10-21",
+      "jobs": [
+        {
+          "title": "Flutter Mobile Engineer",
+          "company": "Axis",
+          "url": "https://eg.indeed.com/viewjob?jk=e9b62aafed2b76df",
+          "location": "Cairo, Egypt",
+          "work_mode": "hybrid",
+          "seniority": "Mid (2+ years)",
+          "source": "Indeed",
+          "why_fit": "طالبين BLoC و Clean Architecture و REST APIs و authentication، ودي بالظبط الحاجات اللي بتشتغل بيها في تطبيقاتك المنشورة.",
+          "top": true,
+          "cover_letter": "Dear Axis Hiring Team,\n\nI am applying for the Flutter Mobile Engineer position in Cairo. I am a Flutter developer based in Egypt, and the stack you describe (BLoC, Clean Architecture, REST APIs and authentication flows) is the stack I use every day.\n\nI have shipped production apps to Google Play, the App Store and the Microsoft Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet and Mudawi. In these apps I use BLoC/Cubit and Riverpod for state management, structure features with Clean Architecture, and handle networking with Dio. I also handle iOS release work myself, including code signing and build flavors.\n\nYou mention Git workflows and pull request reviews. I set up GitHub Actions CI/CD for my Flutter apps, with failure notifications on Telegram and email, APK size reports and artifact links, so every change is checked before it ships. I also wrote CLI scaffolding scripts that generate use cases and wire up dependency injection, and I maintain a shared Flutter package used across several projects, which keeps code consistent and easy to review.\n\nI also write Flutter technical articles on Dev.to, which helps me explain my decisions clearly to teammates.\n\nI would be glad to talk about how I can help your mobile team. Thank you for your time.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "id": "d7272ced1a01"
+        },
+        {
+          "title": "Flutter Developer",
+          "company": "Innovitics",
+          "url": "https://talent360.freshteam.com/jobs/NenpZwAs-q9h/flutter-developer",
+          "location": "Fifth Settlement, Cairo, Egypt",
+          "seniority": "Mid–Senior (2–3 years)",
+          "source": "Company site (via Talent 360)",
+          "why_fit": "طالبين اتنين apps على الأقل معمولين بـ Flutter ومنشورين، وانت عندك أكتر من app منشور على Google Play و App Store.",
+          "top": true,
+          "cover_letter": "Dear Innovitics Hiring Team,\n\nI am applying for the Flutter Developer position in Fifth Settlement, Cairo, posted through Talent 360. I am a Flutter developer based in Egypt, and I meet your request for apps built with Flutter and deployed to the stores.\n\nI have shipped several production apps to Google Play, the App Store and the Microsoft Store: TMKN, CEO (built while at Amazing SA), CEO Buffet, Mudawi and Sportsmanship (freelance). I also built a delivery driver app, rahtak delivery. Across these projects I apply clear design patterns: Clean Architecture, BLoC/Cubit and Riverpod for state, AutoRoute for navigation and Dio for networking, with full Arabic/English localization.\n\nProblem solving is a daily part of my work. On Q-Order, a SaaS restaurant ordering platform, I worked on both the Flutter client and the NestJS + Prisma backend, including schema design and a cashier customer search flow. I also built lift_app, a Flutter app that controls an Arduino over Bluetooth Classic.\n\nTo support an iterative, Agile way of working, I use GitHub Actions CI/CD for my Flutter apps, with failure notifications and APK size reports on every build.\n\nI would welcome the chance to discuss the role with you. Thank you for your time.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "id": "716d88dc472b"
+        },
+        {
+          "title": "Senior Mobile Application Developer – Flutter",
+          "company": "Sinmar Soft",
+          "url": "https://wuzzuf.net/jobs/p/mozfwznxfncv-senior-mobile-application-developer-flutter-sinmar-soft-cairo-egypt",
+          "location": "New Nozha, Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Senior (5+ years)",
+          "posted_at": "2026-10-17",
+          "source": "Wuzzuf",
+          "why_fit": "الـ stack مطابق جداً (BLoC/Riverpod، عربي وإنجليزي RTL، نشر على المتاجر، Clean Architecture)، بس طالبين 5 سنين خبرة فخد بالك.",
+          "top": false,
+          "cover_letter": "Dear Sinmar Soft Hiring Team,\n\nI am applying for the Senior Mobile Application Developer – Flutter position in New Nozha, Cairo. Many of the requirements in your posting match the work I do every day as a Flutter developer based in Egypt.\n\nYou ask for state management with Bloc, Cubit or Riverpod, Clean Architecture, and REST API integration. I use all of these in production apps I shipped to Google Play, the App Store and the Microsoft Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet and Mudawi, with Dio for networking and AutoRoute for navigation. You also need Arabic/English support with RTL and LTR layouts; Flutter localization in both languages is part of all my apps.\n\nYour preferred experience in logistics apps connects to rahtak delivery, a delivery driver app I built. On Q-Order, a SaaS restaurant ordering platform, I worked on both the Flutter client and the NestJS + Prisma backend, including bilingual error messages based on Accept-Language.\n\nFor publishing and code quality, I handle iOS code signing and build flavors, run GitHub Actions CI/CD with failure notifications and APK size reports, and maintain a shared Flutter package across projects.\n\nI would be glad to discuss how I can contribute to your team. Thank you for your time.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "id": "0511e5d934e2"
+        }
+      ],
+      "summary": "مفيش وظايف Flutter جديدة اتنشرت في آخر 48 ساعة في مصر أو remote لـ MENA، فحطيت أحدث 3 وظايف لسه مفتوحة ومناسبة ليك. أقوى اتنين: Axis و Innovitics."
+    }
+  ]
 }
