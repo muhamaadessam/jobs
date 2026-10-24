@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-21T06:57:34+00:00",
+  "updated_at": "2026-10-24T08:55:12+00:00",
   "runs": [
+    {
+      "date": "2026-10-24",
+      "jobs": [
+        {
+          "title": "Mobile Application Developer",
+          "company": "Argaam Investments",
+          "url": "https://www.linkedin.com/jobs/view/4480043938",
+          "location": "Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Mid (3–5 years)",
+          "posted_at": "2026-10-22",
+          "source": "LinkedIn",
+          "why_fit": "عايزين Flutter وDart مع RTL وتعريب عربي/إنجليزي ونشر على App Store وPlay، وCI/CD ميزة إضافية — ده شغلك بالظبط.",
+          "cover_letter": "Dear Argaam Investments Hiring Team,\n\nI am applying for the Mobile Application Developer position at your Cairo office. I am a Flutter developer based in Egypt, and your focus on Dart, Flutter, RTL-optimized UIs and Arabic/English localization matches the work I do every day.\n\nI have shipped production Flutter apps to Google Play, the App Store and the Microsoft Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet, Mudawi and Sportsmanship. Most of them are bilingual, so building RTL layouts and handling Flutter localization for Arabic and English is familiar ground for me. I also handle the iOS release side: code signing, build flavors and configurations, and the store publishing cycle.\n\nFor structuring scalable codebases, I use Clean Architecture with Riverpod or BLoC/Cubit, AutoRoute and Dio, and I keep a shared Flutter package that I maintain across projects. Your posting mentions CI/CD for mobile apps as a plus: I set up GitHub Actions pipelines for Flutter apps with failure notifications on Telegram and email, APK size reports and artifact links. I also wrote CLI scripts that scaffold new features (use cases and DI wiring), which keeps the code consistent across the team.\n\nI would be glad to discuss how I can help Argaam's mobile team ship reliable, well-localized apps.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "top": true,
+          "id": "396029256b03"
+        },
+        {
+          "title": "Mobile App Developer (Remote)",
+          "company": "Rightangled",
+          "url": "https://www.linkedin.com/jobs/view/4482854798",
+          "location": "Dubai, UAE (fully remote)",
+          "work_mode": "remote",
+          "seniority": "Mid (3+ years)",
+          "posted_at": "2026-10-23",
+          "source": "LinkedIn",
+          "why_fit": "شغل remote بالكامل بـ Flutter وBloc وREST APIs ونشر على المتاجر، ومحتاجين حد يبدأ فورًا.",
+          "cover_letter": "Dear Rightangled Hiring Team,\n\nI am applying for the Mobile App Developer (Remote) role. I am a Flutter developer based in Egypt, working fully in Dart and Flutter to build cross-platform apps for iOS and Android, and I am comfortable working remotely with distributed teams in English.\n\nYour posting asks for experience developing, deploying and maintaining mobile apps. I have shipped production Flutter apps to Google Play and the App Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet, Mudawi and Sportsmanship, and I handle the iOS release work myself: code signing, build flavors and configurations, and store updates.\n\nOn the technical side, I use BLoC/Cubit and Riverpod for state management, Clean Architecture, and Dio for REST API integration. On Q-Order, a SaaS restaurant ordering platform, I worked on both the Flutter client and the NestJS + Prisma backend, which helps me understand how the app and the API fit together. I also run GitHub Actions CI/CD for Flutter apps with failure notifications and build artifact links, so releases stay predictable.\n\nHealthcare apps need careful, stable releases, and that is how I like to work. I would welcome the chance to talk about your app roadmap.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "top": true,
+          "id": "48df00b269f7"
+        }
+      ],
+      "summary": "السوق هادي النهارده: لقيت فرصتين Flutter بس جداد في آخر يومين، الاتنين مناسبين جدًا ليك — واحدة في Argaam بالقاهرة وواحدة remote في Rightangled."
+    },
     {
       "date": "2026-10-21",
       "jobs": [
