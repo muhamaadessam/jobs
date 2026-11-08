@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-25T09:07:58+00:00",
+  "updated_at": "2026-11-08T09:46:23+00:00",
   "runs": [
+    {
+      "date": "2026-11-08",
+      "jobs": [
+        {
+          "title": "Senior Mobile App Developer – Connected Devices",
+          "company": "EELAF",
+          "url": "https://www.linkedin.com/jobs/view/4485897930",
+          "location": "Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Senior",
+          "posted_at": "2026-11-06",
+          "source": "LinkedIn",
+          "why_fit": "تطبيق Flutter بيكلم أجهزة wearables، وانت عامل lift_app بيتحكم في Arduino بـ Bluetooth وناشر apps على المتجرين.",
+          "cover_letter": "Dear EELAF Hiring Team,\n\nI am applying for the Senior Mobile App Developer – Connected Devices role. Your companion app for smartwatches and health wristbands is the kind of mobile work I enjoy most: real devices, real connections, and an app that has to stay reliable when they drop.\n\nI am a Flutter developer based in Egypt, working in Dart with Riverpod, BLoC/Cubit, Clean Architecture and Dio. I have shipped production apps to Google Play, the App Store and the Microsoft Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet, Mudawi and Sportsmanship. I also handle iOS release work myself, including code signing and build flavors, so I can own reliable releases on both platforms.\n\nOn the connected-device side, I built lift_app, a Flutter app that controls an Arduino over Bluetooth Classic. That work covered device pairing, connection handling and sending commands to hardware, which maps well to the device connection, sync and reconnection work you describe. I am keen to go deeper into BLE and supplier SDKs on your product.\n\nI also set up GitHub Actions CI/CD for Flutter apps with failure notifications and build reports, and I write Flutter technical articles on Dev.to, which helps me read and explain technical documentation clearly in English.\n\nI would be glad to talk about the role and to take on the practical integration exercise.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "top": true,
+          "id": "d6adec0c88fc"
+        }
+      ],
+      "summary": "السوق هادي النهارده: لقيت وظيفة Flutter واحدة جديدة ومناسبة في آخر يومين، وهي EELAF في القاهرة لتطبيق smartwatches."
+    },
     {
       "date": "2026-10-25",
       "jobs": [],
