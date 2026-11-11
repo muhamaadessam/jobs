@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-11-09T09:39:17+00:00",
+  "updated_at": "2026-11-11T14:31:43+00:00",
   "runs": [
+    {
+      "date": "2026-11-11",
+      "jobs": [
+        {
+          "title": "Flutter Developer",
+          "company": "Advansys",
+          "url": "https://eg.indeed.com/viewjob?jk=8ca241bc81321b42",
+          "location": "Nasr City, Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Mid–Senior (4–6 yrs requested)",
+          "posted_at": "2026-11-08",
+          "source": "Indeed",
+          "why_fit": "شغل Flutter صريح فيه BLoC/Riverpod ونشر على Google Play وApp Store وCI/CD، وده نفس اللي بتعمله، بس طالبين 4–6 سنين خبرة.",
+          "cover_letter": "Dear Advansys Hiring Team,\n\nI am applying for the Flutter Developer position at your Nasr City office. I am a Flutter developer based in Egypt, and the work you describe, building and releasing cross-platform apps for iOS and Android, is the work I do every day.\n\nI have shipped production apps to Google Play and the App Store, including TMKN, CEO (built while at Amazing SA), CEO Buffet, Mudawi and Sportsmanship. I handle the release side myself, including iOS code signing and build flavors. For state management I use BLoC/Cubit and Riverpod, with Clean Architecture, Dio for REST APIs, and Arabic/English localization.\n\nYou mention CI/CD and code quality. I build GitHub Actions pipelines for Flutter apps that send failure notifications to Telegram or email and post APK size reports with artifact links. I also write CLI scaffolding scripts that generate features with their use cases and DI wiring, and I maintain a shared Flutter package used across several projects, which keeps code consistent between apps.\n\nI also understand the backend side of the apps I build: on Q-Order, a SaaS restaurant ordering platform, I worked on the Flutter client and on the NestJS and Prisma backend.\n\nI would be glad to talk about how I can help your team ship reliable apps.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "top": true,
+          "id": "d609ad869343"
+        },
+        {
+          "title": "Digital Platforms & Applications Senior Analyst",
+          "company": "Holcim Egypt",
+          "url": "https://www.linkedin.com/jobs/view/4487679619",
+          "location": "New Cairo, Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Senior",
+          "posted_at": "2026-11-09",
+          "source": "LinkedIn",
+          "why_fit": "الدور بيعتمد على Flutter مع CI/CD ونشر على الـ stores وربط Firebase/SQL، يعني ownership كامل للأبلكيشن زي شغلك في Q-Order.",
+          "cover_letter": "Dear Holcim Egypt Hiring Team,\n\nI am applying for the Digital Platforms & Applications Senior Analyst role in New Cairo. The posting asks for someone who owns web and mobile applications built with Flutter from design to app store deployment, with CI/CD and backend integration. That end-to-end ownership matches how I work.\n\nI am a Flutter developer based in Egypt and have shipped production apps to Google Play, the App Store and the Microsoft Store, including TMKN, CEO, CEO Buffet and Mudawi. I handle releases myself, including iOS code signing and build configurations. I set up GitHub Actions pipelines for Flutter apps with failure notifications, APK size reports and artifact links.\n\nYour role also involves replacing manual processes with internal tools and connecting apps to backend data. On Q-Order, a SaaS restaurant ordering platform, I built the Flutter client and worked on the NestJS and Prisma backend, including schema design and a cashier customer search flow. I also built a delivery driver app and lift_app, a Flutter app that controls an Arduino over Bluetooth Classic, which gave me practice building tools for real operational use.\n\nI write clear, maintainable code with Clean Architecture and Arabic/English localization, and I share what I learn in Flutter articles on Dev.to. I would welcome the chance to discuss your digital projects.\n\nBest regards,\nMuhammad Essam\nmuhammad159e@gmail.com\nhttps://muhammadessam.me",
+          "top": true,
+          "id": "358acc1ccc16"
+        }
+      ],
+      "summary": "أسبوع هادي في وظائف Flutter في مصر؛ لقيت فرصتين جداد بس: Flutter Developer في Advansys بمدينة نصر، ودور Digital Platforms في Holcim Egypt معتمد على Flutter."
+    },
     {
       "date": "2026-11-09",
       "jobs": [],
