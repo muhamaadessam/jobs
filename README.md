@@ -2,7 +2,7 @@
 
 Daily Flutter job openings for Egypt + remote, live at **https://jobs.muhammadessam.me**.
 
-A scheduled Claude task runs Sunday–Thursday at 11:35 Cairo time. It searches Indeed, LinkedIn, Wuzzuf, Bayt and company career pages, writes the day's picks as JSON, merges them with `scripts/add_run.py`, and pushes to `main`. GitHub Pages redeploys the site automatically.
+A scheduled Claude Code task (`daily-flutter-job-search`, desktop app on the Mac) runs Sunday–Thursday at 11:35 Cairo time. It searches Indeed, LinkedIn, Wuzzuf, Bayt and company career pages, writes the day's picks as JSON, merges them with `scripts/add_run.py`, and pushes to `main`. GitHub Pages redeploys the site automatically.
 
 ## Layout
 
