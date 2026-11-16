@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-15T09:49:41+00:00",
+  "updated_at": "2026-11-16T10:08:37+00:00",
   "runs": [
+    {
+      "date": "2026-11-16",
+      "jobs": [
+        {
+          "title": "Senior Mobile Developer (Flutter)",
+          "company": "Awaed",
+          "url": "https://eg.indeed.com/viewjob?jk=49a55a41309ce381",
+          "location": "Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "Senior (6+ yrs mobile, 3+ Flutter)",
+          "posted_at": "2026-10-28",
+          "source": "Indeed",
+          "why_fit": "دور Senior Flutter صريح في شركة فينتك سعودية (منصة تداول) ومقرها القاهرة. بيطلبوا BLoC/Provider وREST APIs وCI/CD وmentoring للجونيورز، وده قريب من خبرتك. الحتة اللي محتاجة تركيز: عايزين خبرة iOS native (Swift) و6 سنين موبايل.",
+          "top": true,
+          "id": "c8f1e51f340d"
+        }
+      ],
+      "summary": "النهارده السوق هادي: مفيش إعلانات Flutter جديدة في آخر يومين-تلاتة على Wuzzuf وBayt وLinkedIn وIndeed (اللي ظاهر يا إما قديم يا إما منشور قبل كده). لقيت فرصة واحدة بس لسه مش موجودة عندنا: Senior Flutter في Awaed بالقاهرة، منشورة من حوالي أسبوعين ونص بس شكلها لسه مفتوحة."
+    },
     {
       "date": "2026-11-15",
       "jobs": [],
