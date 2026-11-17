@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-16T13:20:37+00:00",
+  "updated_at": "2026-11-17T09:56:02+00:00",
   "runs": [
+    {
+      "date": "2026-11-17",
+      "jobs": [],
+      "summary": "النهارده مفيش وظايف Flutter جديدة تستاهل. دورنا في Indeed وLinkedIn وWuzzuf وBayt، واللي ظهر يا إما اتنشر قبل كده على الموقع (Advansys وAwaed)، يا إما قديم (من شهرين لسنة) زي Cubic وAl-Tadamun وRoya Venture، يا إما مش Flutter أصلاً (React Native وAndroid native في PwC)."
+    },
     {
       "date": "2026-11-16",
       "jobs": [
