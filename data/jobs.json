@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-17T09:56:02+00:00",
+  "updated_at": "2026-11-18T09:41:03+00:00",
   "runs": [
+    {
+      "date": "2026-11-18",
+      "jobs": [
+        {
+          "title": "Full Stack Developer (Flutter + Firebase)",
+          "company": "Injazflow",
+          "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-at-injazflow-4490656721",
+          "location": "New Cairo, Cairo, Egypt",
+          "work_mode": "onsite",
+          "seniority": "3+ years",
+          "posted_at": "2026-11-16",
+          "source": "LinkedIn",
+          "why_fit": "الشغل كله Flutter و Dart على موبايل وويب مع Firebase (Firestore و Cloud Functions و Auth) ونشر التطبيقات على الستورز، وده بالظبط خبرتك. محتاجين كمان شوية Node.js للـ Cloud Functions. اتقدم بسرعة لأن عليها أكتر من 200 متقدم.",
+          "top": true,
+          "id": "f72c24fc7337"
+        }
+      ],
+      "summary": "النهارده لقينا فرصة واحدة جديدة بس مناسبة: Injazflow في التجمع عايزين حد يمسك تطبيقاتهم بـ Flutter و Firebase. باقي اللي ظهر يا إما قديم (Cubic و Winji على Wuzzuf من أكتر من 10 شهور)، يا إما مش Flutter أصلاً، يا إما مقفول على بلد تانية زي CFI (بيروت/ليماسول)."
+    },
     {
       "date": "2026-11-17",
       "jobs": [],
