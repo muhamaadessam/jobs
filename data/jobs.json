@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-19T09:45:04+00:00",
+  "updated_at": "2026-11-23T21:27:05+00:00",
   "runs": [
+    {
+      "date": "2026-11-23",
+      "jobs": [
+        {
+          "title": "Senior Software Specialist (Mobile + Backend)",
+          "company": "WOROOD",
+          "url": "https://www.linkedin.com/jobs/view/4490429545",
+          "location": "New Cairo, Egypt",
+          "work_mode": "hybrid",
+          "seniority": "Senior (5+ years)",
+          "posted_at": "2026-11-17",
+          "source": "LinkedIn",
+          "why_fit": "الدور فيه تطوير موبايل cross-platform بـ Flutter/Dart مع Firebase (FCM) وتكامل Paymob وFawry، وده قريب من خبرتك. بس خد بالك إنهم عايزين كمان باك إند (Node أو Python) وشوية native، يعني دور full-stack أكتر من Flutter صافي.",
+          "top": true,
+          "id": "d513398ee207"
+        }
+      ],
+      "summary": "السوق هادي جداً الأيام دي: لينكدإن مفيهوش ولا وظيفة Flutter في مصر آخر ٣ أيام، ولا remote للشرق الأوسط. لقينا وظيفة واحدة جديدة في WOROOD (مايل + باك إند، Flutter من ضمن الستاك). Wuzzuf كان قافل بحماية bot فماتشافش النهارده."
+    },
     {
       "date": "2026-11-19",
       "jobs": [],
