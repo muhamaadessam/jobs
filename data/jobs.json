@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-23T21:27:05+00:00",
+  "updated_at": "2026-11-24T09:50:31+00:00",
   "runs": [
+    {
+      "date": "2026-11-24",
+      "jobs": [
+        {
+          "title": "Senior Flutter Developer",
+          "company": "Proxify",
+          "url": "https://www.linkedin.com/jobs/view/4294327827",
+          "location": "EMEA (Remote)",
+          "work_mode": "remote",
+          "seniority": "Senior",
+          "posted_at": "2026-11-23",
+          "source": "LinkedIn",
+          "why_fit": "شغل ريموت بعقد مع عملاء برا، طالبين 3 سنين Flutter و5+ سنين برمجة ونشر تطبيقات على Google Play وApp Store. شرط التوقيت CET ±3 ساعات ومصر (UTC+2) داخلة فيه، والفلوس بالعملة الأجنبية.",
+          "top": true,
+          "id": "94195cfd71f7"
+        }
+      ],
+      "summary": "النهارده السوق هادي في مصر: لينكدإن مفيهوش وظايف Flutter جديدة في مصر آخر 3 أيام، وبيت كلها Native، ووظف كان قافل بحماية ضد البوتات. لقيت فرصة واحدة ريموت كويسة من Proxify مفتوحة لمنطقة EMEA وتوقيت مصر داخل في الشرط."
+    },
     {
       "date": "2026-11-23",
       "jobs": [
