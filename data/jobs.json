@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-24T09:50:31+00:00",
+  "updated_at": "2026-11-25T09:51:41+00:00",
   "runs": [
+    {
+      "date": "2026-11-25",
+      "jobs": [],
+      "summary": "النهارده مفيش وظايف Flutter جديدة مناسبة. اللي نزل في مصر آخر كام يوم كان React Native أو Native أو SDK (LVJ Soft وZynoStack وArcsen وUnifonic)، ووظيفة Emdad By Elm بتاعة Flutter في الرياض ومش مكتوب إنها ريموت. باقي النتايج يا إما قديمة يا إما مقفولة (Netguru وNile Bits وRubikal) أو شروطها مش مناسبة."
+    },
     {
       "date": "2026-11-24",
       "jobs": [
